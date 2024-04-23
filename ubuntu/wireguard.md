@@ -208,3 +208,7 @@ It'll look like this
     latest handshake: 3 minutes, 45 seconds ago
     transfer: 5.83 KiB received, 124 B sent
 </pre>
+
+## Sources
+1. https://operavps.com/docs/install-wireguard-on-ubuntu/
+2. https://www.reddit.com/r/WireGuard/comments/fue9hg/how_to_setup_wireguard_on_ubuntu_server_ubuntu/
