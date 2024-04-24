@@ -145,14 +145,15 @@ Explanation
 Click on "Add Peer" and fill in the following for Peer
 ```
 Public key: servers_generated_public_key
-Allowed IPs: 0.0.0.0/0
+Allowed IPs: 0.0.0.0/32, ::/0
 Endpoint: x.x.x.x:51820
 ```
 Explanation 
 <pre>
   Public key: The public key generate from your server in Ubuntu. 
   You can use this to retrieve it: sudo cat /etc/wireguard/public.key
-  Allowed IPs: The allowed IP address, 0.0.0.0/0 means all IP address
+  Allowed IPs: The allowed IP address, 0.0.0.0/0 means all IP address 
+  (Note: Seems like 0.0.0.0/0 didn't allow access to Internet, only local, 0.0.0.0/32, ::/0 gave me access to Internet)
   Endpoint: Your public IP address that can be obtained with https://ipinfo.io plus
     the port you selected from the server
 </pre>
