@@ -31,5 +31,5 @@ sudo mount /mnt/storage
 
 Check all mounts
 ```
-dh -h
+df -h
 ```
