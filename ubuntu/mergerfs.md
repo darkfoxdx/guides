@@ -33,3 +33,6 @@ Check all mounts
 ```
 df -h
 ```
+
+Reference
+[How to install and setup MergerFS (YouTube](https://www.youtube.com/watch?v=n7piuhTXeG4)
