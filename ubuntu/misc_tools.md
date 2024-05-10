@@ -1,3 +1,9 @@
+# du
+Sort directories by size
+```
+du -sh -- */ | sort -rh
+```
+
 # Comm
 To find if common between two directory
 ```
