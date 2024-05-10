@@ -1,3 +1,9 @@
+# Comm
+To find if common between two directory
+```
+comm -1 -2 <(ls dir1 | sort) <(ls dir2 | sort)
+```
+
 # Diff
 ```
 diff /mnt/storage2 /mnt/storage1
