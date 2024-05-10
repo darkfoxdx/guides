@@ -1,3 +1,9 @@
+# Diff
+```
+diff /mnt/storage2 /mnt/storage1
+diff -r /mnt/storage2 /mnt/storage1
+```
+
 # Rename
 ```
 sudo apt-get install rename
