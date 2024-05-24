@@ -1,3 +1,8 @@
+# service
+```
+service --status-all
+```
+
 # du
 Sort directories by size
 ```
