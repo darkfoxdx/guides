@@ -1,3 +1,10 @@
+# Environment variable
+```
+sudoedit /etc/environment
+
+source /etc/environment
+```
+
 # service
 ```
 service --status-all
