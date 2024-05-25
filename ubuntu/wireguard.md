@@ -3,7 +3,7 @@ Table of content
 
 A. [Wireguard server on Ubuntu Desktop 20.04](#a-wireguard-server-on-ubuntu-desktop-2004) \
 B. [Wireguard Android App](#b-wireguard-android-app) \
-C. [Wireguard Mac App](c-wireguard-mac-app) \
+C. [Wireguard Mac App](#c-wireguard-mac-app) \
 D. [Setup the server to allow the client peer](#d-setup-the-server-to-allow-the-client-peer) \
 [Other useful commands](#other-useful-commands) \
 [Sources](#sources)
