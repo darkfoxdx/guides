@@ -1,6 +1,12 @@
 # How to set up Wireguard
 Table of content
-A. [Wireguard server on Ubuntu Desktop 20.04](#step-1-install-wireguard-on-ubuntu)
+
+A. [Wireguard server on Ubuntu Desktop 20.04](#a-wireguard-server-on-ubuntu-desktop-2004)
+B. [Wireguard Android App](#b-wireguard-android-app)
+C. [Wireguard Mac App](c-wireguard-mac-app)
+D. [Setup the server to allow the client peer](#d-setup-the-server-to-allow-the-client-peer)
+[Other useful commands](#other-useful-commands)
+[Sources](#sources)
 
 ## A. Wireguard server on Ubuntu Desktop 20.04
 ### Step 1: Install Wireguard on ubuntu
@@ -211,7 +217,7 @@ Allow access for your Mac
 
 Go to step D
 
-## D: Setup the server to allow the client peer
+## D. Setup the server to allow the client peer
 
 Go back to your Ubuntu Desktop
 
