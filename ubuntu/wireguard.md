@@ -1,4 +1,7 @@
 # How to set up Wireguard
+Table of content
+A. [Wireguard server on Ubuntu Desktop 20.04](#step-1-install-wireguard-on-ubuntu)
+
 ## A. Wireguard server on Ubuntu Desktop 20.04
 ### Step 1: Install Wireguard on ubuntu
 Update 
