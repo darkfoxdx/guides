@@ -160,7 +160,7 @@ Explanation
 
 Go to step D
 
-## C. Wireguard Android App
+## C. Wireguard Mac App
 ### Step 1: Install the Wireguard app
 Download from https://apps.apple.com/us/app/wireguard/id1451685025
 
