@@ -5,6 +5,11 @@ sudoedit /etc/environment
 source /etc/environment
 ```
 
+# chown
+```
+sudo chown -R testuser:testuser /var/www/test/public_html
+```
+
 # service
 ```
 service --status-all
