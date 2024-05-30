@@ -1,14 +1,11 @@
-Init project
-```
-go mod init example/hello
-```
+Init project:  `go mod init example/hello`
 
-Run project
-```
-go run .
-```
+Run project: `go run .`
 
-Help
-```
-go help
-```
+Download external package: `go get -u https://github.com/rsc/quote`
+
+Download up: `go mod download`
+
+Tidy up: `go mod tidy`
+
+Help: `go help`
