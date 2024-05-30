@@ -8,4 +8,6 @@ Download up: `go mod download`
 
 Tidy up: `go mod tidy`
 
+Edit module reference: `go mod edit -replace example.com/greetings=../greetings`
+
 Help: `go help`
