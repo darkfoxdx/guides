@@ -10,5 +10,5 @@ sudo apt-get install wsdd
 Enable feature for Samba Direct in Windows Feature
 Allow app for File Sharing for Samba in private network
 
-Edit samba.conf
+Edit /etc/samba/smb.conf
 force user = owner username
